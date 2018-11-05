@@ -1,0 +1,20 @@
+{
+  "name": "copy-js",
+  "description": "clipboard copy library",
+  "main": "/lib/copy.js",
+  "authors": [
+    "J911 <fb.jaemin@gmail.com> (https://github.com/J911)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "copy"
+  ],
+  "homepage": "https://github.com/J911/copy-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

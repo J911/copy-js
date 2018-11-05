@@ -1,5 +1,14 @@
 # copy-js
+![bower-modules](https://img.shields.io/badge/Bower-modules-green.svg)
+![MIT-LISENCE](https://img.shields.io/badge/license-MIT-blue.svg)
+
 clipboard copy library
+
+## Install
+
+```
+$ bower install copy-js --save
+```
 
 ## Using
 
