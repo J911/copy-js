@@ -22,3 +22,5 @@ use method
 copy('copy me', ()=> alert('complete'));
 ```
 
+## Lisence
+MIT
